@@ -17,4 +17,3 @@ Para executar o servidor de **backend** ~~falso~~;
   <img src="./src/assets/preview/preview.png" width="700" title="preview">
 </p>
 Projeto feito em curso de Bootcamp;
-```
